@@ -1,3 +1,48 @@
-body {
+body 
+{
     padding-top: 5rem;
+}
+
+button
+{
+    background-color: deepskyblue;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 100px;
+}
+
+.inpuLabel
+{
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.requ
+{
+    display: inline;
+    color: red;
+    font-weight: bold;
+}
+
+.mess
+{
+    height: 100px;
+    width: 450px;
+}
+
+.flashes 
+{
+    color: white;
+    background-color: limegreen;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 250px;
 }
